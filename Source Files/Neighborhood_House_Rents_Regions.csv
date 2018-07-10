@@ -1,0 +1,79 @@
+,Neighborhood,House Value,Median Rent,POPULATION_2010,PCT_WHITE,DENVER_REGION
+0,Montbello,174000,1854.0,30348,8.17,Northeast
+1,Gateway - Green Valley Ranch,208600,1951.0,29201,23.98,Northeast
+2,Hampden,297900,2138.0,17547,66.96,Southeast
+3,Westwood,152600,1675.0,15486,11.39,West
+4,Capitol Hill,197600,1534.0,14708,78.56,Central
+5,Hampden South,323400,2136.0,14370,72.44,Southeast
+6,Mar Lee,180100,1802.0,12452,24.21,West
+7,Windsor,118300,1414.0,12589,54.84,East
+8,Five Points,336900,2154.0,12712,56.95,North
+9,Virginia Village,309000,2143.0,12844,65.81,East
+10,Washington Virginia Vale,272600,2005.0,13030,61.42,East
+11,Speer,337200,1999.0,10954,81.9,Central
+12,Harvey Park,221600,1941.0,11525,35.32,Southwest
+13,East Colfax,193600,1799.0,10191,32.37,East
+14,Congress Park,463100,2440.0,10235,82.35,Central
+15,Sunnyside,302600,2100.0,9726,34.15,Northwest
+16,Marston,220900,1939.0,11132,73.67,Southwest
+17,Ruby Hill,181400,1836.0,9820,20.9,West
+18,Bear Valley,265100,2108.0,8889,52.57,Southwest
+19,University,344200,2176.0,9375,83.16,South
+20,West Highland,409800,2312.0,8540,75.78,Northwest
+21,North Park Hill,340000,2195.0,9382,43.56,North
+22,West Colfax,272000,2035.0,9740,29.52,West
+23,Harvey Park South,253800,2093.0,8393,43.38,Southwest
+24,Lowry Field,488400,2505.0,8067,73.84,East
+25,Villa Park,160000,1737.0,8758,17.0,West
+26,South Park Hill,506600,2561.0,8590,77.42,North
+27,Highland,365000,2288.0,8429,57.42,Northwest
+28,Cheesman Park,263200,1817.0,7971,82.15,Central
+29,Athmar Park,181000,1825.0,8898,20.59,West
+30,Fort Logan,271700,2119.0,8532,63.44,Southwest
+31,Hilltop,788600,3958.0,8190,84.19,East
+32,Northeast Park Hill,214100,1914.0,7822,13.53,Northeast
+33,Berkeley,365500,2141.0,8112,68.85,Northwest
+34,University Park,520800,2528.0,7491,83.47,South
+35,Sloan Lake,395700,2341.0,7238,59.05,Northwest
+36,Elyria Swansea,127500,1653.0,6401,8.81,North
+37,Washington Park,626300,2744.0,6905,92.05,South
+38,Washington Park West,490400,2496.0,6393,88.0,South
+39,College View - South Platte,167500,1791.0,6498,18.9,South
+40,Hale,355300,2063.0,6936,73.99,East
+41,University Hills,291100,2044.0,5327,82.15,South
+42,Whittier,334500,2263.0,4831,41.71,North
+43,Lincoln Park,239500,1871.0,6119,41.15,Central
+44,Montclair,358800,2141.0,5456,77.8,East
+45,Barnum,157300,1725.0,6111,18.02,West
+46,North Capitol Hill,328200,2048.0,5823,73.55,Central
+47,Cherry Creek,686500,3045.0,5589,87.6,Central
+48,Platt Park,419000,2421.0,5393,88.6,South
+49,Baker,337500,2095.0,4879,58.5,Central
+50,Goldsmith,333900,2139.0,5808,52.39,Southeast
+51,Barnum West,172900,1774.0,5376,21.41,West
+52,Cole,246300,2007.0,4651,19.59,North
+53,Belcaro,768200,3259.0,4172,90.51,East
+54,Clayton,222500,1955.0,4336,16.12,North
+55,Southmoor Park,395100,2336.0,3826,82.85,Southeast
+56,Union Station,466300,2348.0,4348,81.35,Central
+57,City Park West,359100,2198.0,4844,61.54,Central
+58,Regis,274700,2072.0,3934,63.45,Northwest
+59,Kennedy,,,4464,35.55,Southeast
+60,Chaffee Park,205600,1833.0,3874,30.82,Northwest
+61,Cory - Merrill,449400,2448.0,3892,88.39,East
+62,Valverde,145500,1674.0,3941,15.05,West
+63,Globeville,136900,1684.0,3687,25.77,North
+64,Wellshire,616200,2797.0,3133,91.32,South
+65,CBD,322000,2076.0,3648,75.22,Central
+66,Indian Creek,182300,1749.0,3096,72.93,East
+67,Skyland,291300,2104.0,3106,28.4,North
+68,Country Club,898900,4337.0,3001,91.3,Central
+69,City Park,415600,2350.0,2907,75.06,Central
+70,Rosedale,345100,2207.0,2553,83.98,South
+71,Jefferson Park,332200,2241.0,2552,38.83,Northwest
+72,Overland,216700,1844.0,2218,60.28,South
+73,Civic Center,387000,2182.0,1577,78.0,Central
+74,Sun Valley,,,1448,7.67,West
+75,Stapleton,470500,2605.0,13948,69.67,Northeast
+76,DIA,142000,1694.0,1165,43.26,Northeast
+77,Auraria,,,705,78.72,Northwest
